@@ -7,4 +7,4 @@ I think I will use this rather than R Studio Rmd since I do not know how to conn
 3. Third item
 4. Fourth item
 
-![Alt text](/Users/tiherna2/Documents/rstudio1.jpg)
+![rstuio1](/Users/tiherna2/Documents/rstudio1.jpg)
