@@ -8,9 +8,9 @@ Talia Hernandez
 | PICO   |      PICO Proposed  | Example |    
 |----------|-------------|-------------|
 | **Population** |  Arizonans | Arizonans |
-| **Exposure** |    Being of a certain race/ethnicity   | Hispanic/Latino |
-| **Comparison** | right-aligned | White non-Hispanic |
-| **Outcome** | right-aligned | Measuring rates of the race/ethnicity receiving SNAP |
+| **Exposure** |Race/ethnicity   | Hispanic/Latino |
+| **Comparison** | A different race/ethnicity | White non-Hispanic |
+| **Outcome** | Measuring rates of the race/ethnicity enrolled in SNAP | Measuring and comparing rates of enrolled participants of SNAP by race/ethnicity |
 
 ## Data Sets
 1. SNAP Data, Arizona-specific (by race/ethnicity, household income, household size, head of household occupation)
