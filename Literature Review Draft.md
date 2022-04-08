@@ -17,6 +17,12 @@ Talia Hernandez
 
 ## Impact of Food Insecurity on Well-Being 
 
+### Physicla Health and Chronic Disease
+### Mental Health
+### Infant and Child Health
+### Women's Health
+### Senior Health
+
 ## The Association between SNAP on Food Insecurity
 
 1. Measuring the Effect of SNAP Participation on Food Security
